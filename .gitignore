@@ -39,7 +39,7 @@ cypress/videos
 cypress/screenshots
 
 ### VS Code ###
-.vscode/
+/.vscode/
 
 ### Mac OS ###
 .DS_Store
