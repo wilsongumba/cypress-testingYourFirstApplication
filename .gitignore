@@ -37,3 +37,9 @@ yarn-error.log*
 # Cypress
 cypress/videos
 cypress/screenshots
+
+### VS Code ###
+.vscode/
+
+### Mac OS ###
+.DS_Store
